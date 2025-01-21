@@ -44,11 +44,11 @@
 
 -----
 
-<div align="center">
+<div align="start">
 <h2>:gear: Experiência Profissional</h2>
 <table>
 <tr>
-  <td align="center">
+  <td align="start">
     <strong>Desenvolvedor Full Stack</strong><br/>
     Agência Experimental de Software<br/>
     Agosto de 2024 - Presente<br/>
