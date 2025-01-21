@@ -22,7 +22,7 @@
 
 -----
 
-<div align="center">
+<div align="start">
 <h2>:information_source: Sobre Mim</h2>
 
 - 🌟 **Gestão de equipes:** Expêriencia com gestão de equipes em projetos relacionados a faculdade, buscando extrair o máximo de cada membro do grupo.
