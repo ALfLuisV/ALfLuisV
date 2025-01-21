@@ -34,7 +34,7 @@
 
 -----
 
-<div align="center">
+<div align="start">
 <h2>:books: Formação Acadêmica</h2>
 <ul>
   <li><strong>PUC Minas</strong> - Bacharelado em Engenharia de Software (2023-2026)</li>
