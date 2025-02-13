@@ -73,6 +73,6 @@
 - 📧 Email: alfredoluisvieira@gmail.com  
 - 📱 Celular: (31) 99385-5676 
 - 🌐 LinkedIn: [Alfredo Luis](https://www.linkedin.com/in/alfredoluisdev/)  
-- 💻 GitHub: [Bruno Evangelista](https://github.com/ALfLuisV)  
+- 💻 GitHub: [Alfredo Luis](https://github.com/ALfLuisV)  
 
 </div>
